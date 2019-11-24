@@ -4,3 +4,6 @@ Developed a weather app on IOS using Swift which gives the current temperature o
 Used the OpenWeatherMapAPI to acquire the data of the climate.
 Incorporated Alamo Fire library to make the HTTP request to the URL of the API.
 Used SwiftyJSON to parse the JSON data received from the website and use it on the application.
+
+
+Used Udemy's IOS App Development Bootcamp Course as a resource and template for the project.
